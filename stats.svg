@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="196" viewBox="0 0 420 196">
+<style>
+  .label { font: 400 14px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #57606a; }
+  .value { font: 600 14px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #1f2328; }
+  @media (prefers-color-scheme: dark) {
+    .label { fill: #8b949e; }
+    .value { fill: #e6edf3; }
+  }
+</style>
+<text x="20" y="34" class="label">Contributions (last year)</text>
+<text x="400" y="34" class="value" text-anchor="end">11</text>
+<text x="20" y="60" class="label">Public repositories</text>
+<text x="400" y="60" class="value" text-anchor="end">2</text>
+<text x="20" y="86" class="label">Stars earned</text>
+<text x="400" y="86" class="value" text-anchor="end">1</text>
+<text x="20" y="112" class="label">Followers</text>
+<text x="400" y="112" class="value" text-anchor="end">2</text>
+<clipPath id="bar"><rect x="20" y="144" width="380" height="8" rx="4"/></clipPath>
+<g clip-path="url(#bar)">
+<rect x="20.0" y="144" width="311.2" height="8" fill="#e34c26"/>
+<rect x="331.2" y="144" width="68.8" height="8" fill="#f1e05a"/>
+</g>
+<circle cx="25" cy="168" r="5" fill="#e34c26"/>
+<text x="35" y="172" class="label">HTML 82%</text>
+<circle cx="116" cy="168" r="5" fill="#f1e05a"/>
+<text x="126" y="172" class="label">JavaScript 18%</text>
+</svg>
