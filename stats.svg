@@ -8,11 +8,11 @@
   }
 </style>
 <text x="20" y="34" class="label">Contributions (last year)</text>
-<text x="400" y="34" class="value" text-anchor="end">12</text>
+<text x="400" y="34" class="value" text-anchor="end">14</text>
 <text x="20" y="60" class="label">Public repositories</text>
 <text x="400" y="60" class="value" text-anchor="end">2</text>
 <text x="20" y="86" class="label">Stars earned</text>
-<text x="400" y="86" class="value" text-anchor="end">1</text>
+<text x="400" y="86" class="value" text-anchor="end">2</text>
 <text x="20" y="112" class="label">Followers</text>
 <text x="400" y="112" class="value" text-anchor="end">2</text>
 <clipPath id="bar"><rect x="20" y="144" width="380" height="8" rx="4"/></clipPath>
