@@ -8,23 +8,29 @@
   }
 </style>
 <text x="20" y="34" class="label">Contributions (last year)</text>
-<text x="400" y="34" class="value" text-anchor="end">14</text>
+<text x="400" y="34" class="value" text-anchor="end">18</text>
 <text x="20" y="60" class="label">Public repositories</text>
-<text x="400" y="60" class="value" text-anchor="end">2</text>
+<text x="400" y="60" class="value" text-anchor="end">3</text>
 <text x="20" y="86" class="label">Stars earned</text>
-<text x="400" y="86" class="value" text-anchor="end">2</text>
+<text x="400" y="86" class="value" text-anchor="end">3</text>
 <text x="20" y="112" class="label">Followers</text>
 <text x="400" y="112" class="value" text-anchor="end">2</text>
 <clipPath id="bar"><rect x="20" y="144" width="380" height="8" rx="4"/></clipPath>
 <g clip-path="url(#bar)">
-<rect x="20.0" y="144" width="294.6" height="8" fill="#e34c26"/>
-<rect x="314.6" y="144" width="65.2" height="8" fill="#f1e05a"/>
-<rect x="379.8" y="144" width="20.2" height="8" fill="#3572A5"/>
+<rect x="20.0" y="144" width="186.2" height="8" fill="#e34c26"/>
+<rect x="206.2" y="144" width="179.0" height="8" fill="#f1e05a"/>
+<rect x="385.3" y="144" width="12.8" height="8" fill="#3572A5"/>
+<rect x="398.0" y="144" width="1.0" height="8" fill="#89e051"/>
+<rect x="399.0" y="144" width="1.0" height="8" fill="#C1F12E"/>
 </g>
 <circle cx="25" cy="168" r="5" fill="#e34c26"/>
-<text x="35" y="172" class="label">HTML 78%</text>
+<text x="35" y="172" class="label">HTML 49%</text>
 <circle cx="116" cy="168" r="5" fill="#f1e05a"/>
-<text x="126" y="172" class="label">JavaScript 17%</text>
+<text x="126" y="172" class="label">JavaScript 47%</text>
 <circle cx="261" cy="168" r="5" fill="#3572A5"/>
-<text x="271" y="172" class="label">Python 5%</text>
+<text x="271" y="172" class="label">Python 3%</text>
+<circle cx="370" cy="168" r="5" fill="#89e051"/>
+<text x="380" y="172" class="label">Shell 0%</text>
+<circle cx="470" cy="168" r="5" fill="#C1F12E"/>
+<text x="480" y="172" class="label">Batchfile 0%</text>
 </svg>
